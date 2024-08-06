@@ -76,7 +76,7 @@ const enableBoxes = () =>{
 }
 
 const drawGame = () => {
-    winMsg.innerText="Game Resulted in Draw";
+    winMsg.innerText="Game Resulted in Draw \n scroll down to review the recent game";
     msgContainer.classList.remove("hide");
 }
 
